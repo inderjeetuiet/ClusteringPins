@@ -1,0 +1,1782 @@
+[
+    {
+        "address": "Koppenstra\u00dfe8(Ostbahnhof)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2010-05-23",
+        "machine": "AddamsFamily",
+        "note": "SehrungepflegtesGer\u00e4t;kaumSpielbar",
+        "number": "8",
+        "pin": {
+            "coordinates": [
+                13.4343831,
+                52.5128869
+            ],
+            "type": "Point"
+        },
+        "place": "EFK-Kart&EventsenterBerlin(1StockwerkunterEastsideBowling)",
+        "stars": 1,
+        "street": "Koppenstra\u00dfe",
+        "zipcode": "10243"
+    },
+    {
+        "address": "Koppenstr.8(Ostbahnhof)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-03-05",
+        "machine": "NBAFastbreak",
+        "note": "-",
+        "number": "8",
+        "pin": {
+            "coordinates": [
+                13.4343831,
+                52.5128869
+            ],
+            "type": "Point"
+        },
+        "place": "EFK-Kart&EventsenterBerlin(1StockwerkunterEastsideBowling)",
+        "stars": 2,
+        "street": "Koppenstra\u00dfe",
+        "zipcode": "10243"
+    },
+    {
+        "address": "MariendorferDamm100",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-11-22",
+        "machine": "AddamsFamilyGold",
+        "note": "Neu5Flipperhier",
+        "number": "100",
+        "pin": {
+            "coordinates": [
+                13.3834788,
+                52.4438003
+            ],
+            "type": "Point"
+        },
+        "place": "MariendorferK\u00e4fer",
+        "stars": 3,
+        "street": "Mariendorfer Damm",
+        "zipcode": "12109"
+    },
+    {
+        "address": "ReichenbergerStr.177",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-11-06",
+        "machine": "PiratesoftheCaribbean",
+        "note": "In-Kneipe,immersehrvoll,Flipperkaumm\u00f6glich",
+        "number": "177",
+        "pin": {
+            "coordinates": [
+                13.41734,
+                52.50002
+            ],
+            "type": "Point"
+        },
+        "place": "M\u00f6belOlfe",
+        "stars": 3,
+        "street": "Reichenberger Stra\u00dfe",
+        "zipcode": "10999"
+    },
+    {
+        "address": "G\u00e4rtnerstr.(BoxhagenerPlatz)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-01-17",
+        "machine": "MedievalMadness",
+        "note": "RaucherkneipeFarbdisplay",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4606017,
+                52.5102236
+            ],
+            "type": "Point"
+        },
+        "place": "Feuermelder",
+        "stars": 3,
+        "street": "G\u00e4rtnerstra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Oranienstr.19,gegen\u00fcberSo36",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-09-04",
+        "machine": "AC/DCPro",
+        "note": "reinigen,spieltgut.http://franken-bar.de",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4272009,
+                52.4956904
+            ],
+            "type": "Point"
+        },
+        "place": "Franken",
+        "stars": 3,
+        "street": null,
+        "zipcode": "10999"
+    },
+    {
+        "address": "WienerStra\u00dfe14b",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-05-13",
+        "machine": "WHOdunnit",
+        "note": "-",
+        "number": "14B",
+        "pin": {
+            "coordinates": [
+                13.42902,
+                52.4981
+            ],
+            "type": "Point"
+        },
+        "place": "Travolta",
+        "stars": 3,
+        "street": "Wiener Stra\u00dfe",
+        "zipcode": "10999"
+    },
+    {
+        "address": "Leuschnerdamm41",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-02-28",
+        "machine": "AddamsFamily",
+        "note": "-",
+        "number": "41",
+        "pin": {
+            "coordinates": [
+                13.4169764,
+                52.503105
+            ],
+            "type": "Point"
+        },
+        "place": "MisfitBar",
+        "stars": 3,
+        "street": "Leuschnerdamm",
+        "zipcode": "10999"
+    },
+    {
+        "address": "Flutgraben2",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-07-09",
+        "machine": "AddamsFamily",
+        "note": "derzeitnichtinderAufstellung",
+        "number": "2",
+        "pin": {
+            "coordinates": [
+                13.4515662,
+                52.4970164
+            ],
+            "type": "Point"
+        },
+        "place": "WhiteTrash",
+        "stars": 0,
+        "street": "Am Flutgraben",
+        "zipcode": "12435"
+    },
+    {
+        "address": "Mieraustra\u00dfe(EckeErnststra\u00dfe)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-07-03",
+        "machine": "ScaredStiff",
+        "note": "Reinickendorf",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.3083162,
+                52.5849482
+            ],
+            "type": "Point"
+        },
+        "place": "ZurH\u00fctte",
+        "stars": 0,
+        "street": "Miraustra\u00dfe",
+        "zipcode": "13509"
+    },
+    {
+        "address": "LychenerStr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-07-06",
+        "machine": "AddamsFamily",
+        "note": "-",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4177592,
+                52.5439235
+            ],
+            "type": "Point"
+        },
+        "place": "Fengler",
+        "stars": 2,
+        "street": "Lychener Stra\u00dfe",
+        "zipcode": "10437"
+    },
+    {
+        "address": "MariendorferDamm100",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-11-22",
+        "machine": "MonsterBash",
+        "note": "Neu5Flipperhier",
+        "number": "100",
+        "pin": {
+            "coordinates": [
+                13.3834788,
+                52.4438003
+            ],
+            "type": "Point"
+        },
+        "place": "MariendorferK\u00e4fer",
+        "stars": 3,
+        "street": "Mariendorfer Damm",
+        "zipcode": "12109"
+    },
+    {
+        "address": "BerlinerStr",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2008-10-03",
+        "machine": "MataHari",
+        "note": "Raucherkneipe",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.3136194,
+                52.61996389999999
+            ],
+            "type": "Point"
+        },
+        "place": "WirtshausamFliess",
+        "stars": 2,
+        "street": "Berliner Stra\u00dfe",
+        "zipcode": "13467"
+    },
+    {
+        "address": "Karl-Marx-Str.66",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-09",
+        "machine": "TalesoftheArabianNights",
+        "note": "3Flipper,Spielfeldtotalverdreckt,abergutspielbar.Skillshotausschlie\u00dflichaufdenmittlerenTopf",
+        "number": "66",
+        "pin": {
+            "coordinates": [
+                13.432996,
+                52.4821579
+            ],
+            "type": "Point"
+        },
+        "place": "Cineplex-Neuk\u00f6llnArkaden",
+        "stars": 2,
+        "street": "Karl-Marx-Stra\u00dfe",
+        "zipcode": "12043"
+    },
+    {
+        "address": "Schildhornstra\u00dfe64",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-07-09",
+        "machine": "Dracula",
+        "note": "NetteAtmosph\u00e4re.Flippersuperspielbar,k\u00f6nntemalgereinigtunddefekteLampenersetztwerden.",
+        "number": "64",
+        "pin": {
+            "coordinates": [
+                13.3148649,
+                52.4647078
+            ],
+            "type": "Point"
+        },
+        "place": "Sterntaler",
+        "stars": 3,
+        "street": "Schildhornstra\u00dfe",
+        "zipcode": "12163"
+    },
+    {
+        "address": "Karl-Marx-Str.66",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-09",
+        "machine": "WorldPokerTour",
+        "note": "3Flipper",
+        "number": "66",
+        "pin": {
+            "coordinates": [
+                13.432996,
+                52.4821579
+            ],
+            "type": "Point"
+        },
+        "place": "Cineplex-Neuk\u00f6llnArkaden",
+        "stars": 0,
+        "street": "Karl-Marx-Stra\u00dfe",
+        "zipcode": "12043"
+    },
+    {
+        "address": "MariendorferDamm86",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-10-27",
+        "machine": "FishTales",
+        "note": "Raucherkneipe",
+        "number": "86",
+        "pin": {
+            "coordinates": [
+                13.38548,
+                52.44498000000001
+            ],
+            "type": "Point"
+        },
+        "place": "Bier-St\u00fcbl",
+        "stars": 3,
+        "street": "Mariendorfer Damm",
+        "zipcode": "12105"
+    },
+    {
+        "address": "Skalitzerstr.134",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-11-06",
+        "machine": "Dracula",
+        "note": "-",
+        "number": "134",
+        "pin": {
+            "coordinates": [
+                13.4204973,
+                52.4992667
+            ],
+            "type": "Point"
+        },
+        "place": "Monarch",
+        "stars": 3,
+        "street": "Skalitzer Stra\u00dfe",
+        "zipcode": "10999"
+    },
+    {
+        "address": "Manteuffelstr.41",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-05-31",
+        "machine": "StarTrek",
+        "note": "-",
+        "number": "41",
+        "pin": {
+            "coordinates": [
+                13.4266988,
+                52.4997793
+            ],
+            "type": "Point"
+        },
+        "place": "Milchbar",
+        "stars": 3,
+        "street": "Manteuffelstra\u00dfe",
+        "zipcode": "10997"
+    },
+    {
+        "address": "Schl\u00fcterstra\u00dfe21",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2008-12-29",
+        "machine": "AttackfromMars",
+        "note": "Raucher-Bier-Kneipe,Flippersoundabgeschaltet,tiltetkaum.",
+        "number": "21",
+        "pin": {
+            "coordinates": [
+                13.31714,
+                52.50666
+            ],
+            "type": "Point"
+        },
+        "place": "WirtshausWuppke",
+        "stars": 2,
+        "street": "Schl\u00fcterstra\u00dfe",
+        "zipcode": "10625"
+    },
+    {
+        "address": "Kaiser-Willhelm-Str.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-02-27",
+        "machine": "Dracula",
+        "note": "leiderbeideDefektSchadeausserdemsehrteuerda",
+        "number": "10",
+        "pin": {
+            "coordinates": [
+                13.33453,
+                52.43059
+            ],
+            "type": "Point"
+        },
+        "place": "S-Bahn-Klause",
+        "stars": 1,
+        "street": "Kaiser-Wilhelm-Stra\u00dfe",
+        "zipcode": "10???"
+    },
+    {
+        "address": "Bl\u00fccherstr.61",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-10-10",
+        "machine": "MetallicaLE",
+        "note": "-",
+        "number": "61",
+        "pin": {
+            "coordinates": [
+                13.40003,
+                52.49469
+            ],
+            "type": "Point"
+        },
+        "place": "CafeLogo",
+        "stars": 3,
+        "street": "Bl\u00fccherstra\u00dfe",
+        "zipcode": "10961"
+    },
+    {
+        "address": "DanzigerStr.EckeKollwitzstr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-08-21",
+        "machine": "AdamsFamily",
+        "note": "netteKneipemitKicker,Konzerten...",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4072944,
+                52.5455109
+            ],
+            "type": "Point"
+        },
+        "place": "Mokum",
+        "stars": 2,
+        "street": null,
+        "zipcode": "10437"
+    },
+    {
+        "address": "General-Barby-Str.25",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-07-06",
+        "machine": "LordoftheRings",
+        "note": "netteLocation",
+        "number": "25",
+        "pin": {
+            "coordinates": [
+                13.31674,
+                52.56879
+            ],
+            "type": "Point"
+        },
+        "place": "ChillOutBar",
+        "stars": 2,
+        "street": "General-Barby-Stra\u00dfe",
+        "zipcode": "13403"
+    },
+    {
+        "address": "Kleiststr.3-6",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-06-02",
+        "machine": "Jackbot",
+        "note": "WiederCorvettelautMitarbeiterinM\u00f6nchengladbach,wirdwohlsoschnellnichtwiederkommen...",
+        "number": "3",
+        "pin": {
+            "coordinates": [
+                13.35169,
+                52.50041
+            ],
+            "type": "Point"
+        },
+        "place": "BerolinaBowlingLounge",
+        "stars": 0,
+        "street": "Kleiststra\u00dfe",
+        "zipcode": "10787"
+    },
+    {
+        "address": "KrossenerStra\u00dfe24",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-09-17",
+        "machine": "AC/DCLE",
+        "note": "topZustand!",
+        "number": "24",
+        "pin": {
+            "coordinates": [
+                13.4601458,
+                52.5102003
+            ],
+            "type": "Point"
+        },
+        "place": "Feuermelder",
+        "stars": 3,
+        "street": "Krossener Stra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Engeldamm/Adalbertstr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2011-10-28",
+        "machine": "AddamsFamily",
+        "note": "kneipegibtesnichtmehr",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4232912,
+                52.5069017
+            ],
+            "type": "Point"
+        },
+        "place": "Engelchen",
+        "stars": 2,
+        "street": "Adalbertstra\u00dfe",
+        "zipcode": "10179"
+    },
+    {
+        "address": "Rathausstra\u00dfe5(indenRathauspassagenamAlexanderplatz)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-09-24",
+        "machine": "Terminator3",
+        "note": "Abgerockt",
+        "number": "5",
+        "pin": {
+            "coordinates": [
+                13.410337,
+                52.51952439999999
+            ],
+            "type": "Point"
+        },
+        "place": "BowlingamAlex",
+        "stars": 1,
+        "street": "Rathausstra\u00dfe",
+        "zipcode": "10178"
+    },
+    {
+        "address": "Gneisenaustr.2a",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-17",
+        "machine": "AddamsFamilyGold",
+        "note": "-",
+        "number": "2A",
+        "pin": {
+            "coordinates": [
+                13.38817,
+                52.49191
+            ],
+            "type": "Point"
+        },
+        "place": "Clash",
+        "stars": 3,
+        "street": "Gneisenaustra\u00dfe",
+        "zipcode": "10961"
+    },
+    {
+        "address": "TempelhoferHafen",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-10-22",
+        "machine": "MedievalMadness",
+        "note": "Billardcenter",
+        "number": "215",
+        "pin": {
+            "coordinates": [
+                13.3841611,
+                52.4568424
+            ],
+            "type": "Point"
+        },
+        "place": "Hanniball",
+        "stars": 3,
+        "street": "Tempelhofer Damm",
+        "zipcode": "12107"
+    },
+    {
+        "address": "WaidmannslusterDamm50",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-05-28",
+        "machine": "Maverick-TheMovie",
+        "note": "Fu\u00dfballtreffpunkt,netteKneipe+Bewirtung",
+        "number": "50",
+        "pin": {
+            "coordinates": [
+                13.2979803,
+                52.5980646
+            ],
+            "type": "Point"
+        },
+        "place": "Eulenspiegel",
+        "stars": 3,
+        "street": "Waidmannsluster Damm",
+        "zipcode": "13509"
+    },
+    {
+        "address": "Flutgraben2",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-07-09",
+        "machine": "MedievalMadness",
+        "note": "derzeitnichtinderAufstellung",
+        "number": "2",
+        "pin": {
+            "coordinates": [
+                13.4515662,
+                52.4970164
+            ],
+            "type": "Point"
+        },
+        "place": "WhiteTrash",
+        "stars": 0,
+        "street": "Am Flutgraben",
+        "zipcode": "12435"
+    },
+    {
+        "address": "Bismarkstr.60",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2005-12-10",
+        "machine": "GrandPrix",
+        "note": "GeileSceneRockKneipeinSpandauab19Uhroffenbismorgens,www.diewampe.de",
+        "number": "60",
+        "pin": {
+            "coordinates": [
+                13.2034001,
+                52.5422473
+            ],
+            "type": "Point"
+        },
+        "place": "dieWampe",
+        "stars": 3,
+        "street": "Bismarckstra\u00dfe",
+        "zipcode": "13585"
+    },
+    {
+        "address": "Gneisenaustr.2a",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-17",
+        "machine": "X-MenLE",
+        "note": "-",
+        "number": "2A",
+        "pin": {
+            "coordinates": [
+                13.38817,
+                52.49191
+            ],
+            "type": "Point"
+        },
+        "place": "Clash",
+        "stars": 3,
+        "street": "Gneisenaustra\u00dfe",
+        "zipcode": "10961"
+    },
+    {
+        "address": "Scharnweberstra\u00dfe37",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2011-02-03",
+        "machine": "LordoftheRings",
+        "note": "1Spiel50Cent,5Spiele2Euro",
+        "number": "37",
+        "pin": {
+            "coordinates": [
+                13.32064,
+                52.56612
+            ],
+            "type": "Point"
+        },
+        "place": "Raucherkneipe\"Daggi'sEinflug1\"",
+        "stars": 0,
+        "street": "Scharnweberstra\u00dfe",
+        "zipcode": "13405"
+    },
+    {
+        "address": "Boetzowstr.14",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2010-12-06",
+        "machine": "IndianaJones",
+        "note": "-",
+        "number": "14",
+        "pin": {
+            "coordinates": [
+                13.43235,
+                52.53001
+            ],
+            "type": "Point"
+        },
+        "place": "Unendlich",
+        "stars": 3,
+        "street": "B\u00f6tzowstra\u00dfe",
+        "zipcode": "10407"
+    },
+    {
+        "address": "BoxhagenerStrasse114",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2010-01-18",
+        "machine": "Congo",
+        "note": "SchwuleKiezkneipe,Zustandprima!",
+        "number": "114",
+        "pin": {
+            "coordinates": [
+                13.4559811,
+                52.5135996
+            ],
+            "type": "Point"
+        },
+        "place": "GrosseFreiheit114",
+        "stars": 3,
+        "street": "Boxhagener Stra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Weisestr.56",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-09-17",
+        "machine": "AddamsFamilyGold",
+        "note": "-",
+        "number": "56",
+        "pin": {
+            "coordinates": [
+                13.42402,
+                52.47823
+            ],
+            "type": "Point"
+        },
+        "place": "Syndikat",
+        "stars": 3,
+        "street": "Weisestra\u00dfe",
+        "zipcode": "12049"
+    },
+    {
+        "address": "Dudenstr.48",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-04-03",
+        "machine": "X-MenLE",
+        "note": "-",
+        "number": "48",
+        "pin": {
+            "coordinates": [
+                13.37698,
+                52.48543
+            ],
+            "type": "Point"
+        },
+        "place": "Golgatha",
+        "stars": 3,
+        "street": "Dudenstra\u00dfe",
+        "zipcode": "10965"
+    },
+    {
+        "address": "Corinthstr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-01-27",
+        "machine": "JunkYard",
+        "note": "Altm\u00e4nnerkneipe",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4605027,
+                52.5003044
+            ],
+            "type": "Point"
+        },
+        "place": "Sport-Treff",
+        "stars": 0,
+        "street": "Corinthstra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Yorckstr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2005-10-03",
+        "machine": "AddamsFamily",
+        "note": "linkerFlipperlahm,kaumbeleuchtet,",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.3777991,
+                52.4920157
+            ],
+            "type": "Point"
+        },
+        "place": "Yorckschl\u00f6\u00dfchen",
+        "stars": 1,
+        "street": "Yorckstra\u00dfe",
+        "zipcode": "10965"
+    },
+    {
+        "address": "Simon-Dach-Str.40",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-01-06",
+        "machine": "AttackfromMars",
+        "note": "-outlaneswide",
+        "number": "40",
+        "pin": {
+            "coordinates": [
+                13.4572878,
+                52.5119485
+            ],
+            "type": "Point"
+        },
+        "place": "AstroBar",
+        "stars": 3,
+        "street": "Simon-Dach-Stra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Lehmbruckstr.EckeRochowstr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2006-04-18",
+        "machine": "Sopranos",
+        "note": "-",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4554471,
+                52.5019332
+            ],
+            "type": "Point"
+        },
+        "place": "Gl\u00fchlampe",
+        "stars": 3,
+        "street": null,
+        "zipcode": "10245"
+    },
+    {
+        "address": "WaidmannslusterDamm50",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-06-04",
+        "machine": "StarWars",
+        "note": "Fu\u00dfballtreffpunkt,netteKneipe+Bewirtung",
+        "number": "50",
+        "pin": {
+            "coordinates": [
+                13.2979803,
+                52.5980646
+            ],
+            "type": "Point"
+        },
+        "place": "Eulenspiegel",
+        "stars": 3,
+        "street": "Waidmannsluster Damm",
+        "zipcode": "13509"
+    },
+    {
+        "address": "Wilhelmstrasse144",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-04-23",
+        "machine": "AttackfromMars",
+        "note": "GutinSchuss!JungesPublikumhier.",
+        "number": "144",
+        "pin": {
+            "coordinates": [
+                13.1926402,
+                52.5240081
+            ],
+            "type": "Point"
+        },
+        "place": "PlanB",
+        "stars": 3,
+        "street": "Wilhelmstra\u00dfe",
+        "zipcode": "13595"
+    },
+    {
+        "address": "G\u00e4rtnerstr.6",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-09",
+        "machine": "AC/DC",
+        "note": "AllesinOrdnungwieneu.LeiderSoundaufganzganzleisegestellt.NetteBedienungundLokation,leiderRaucherkneipe.",
+        "number": "6",
+        "pin": {
+            "coordinates": [
+                13.4602801,
+                52.5093329
+            ],
+            "type": "Point"
+        },
+        "place": "Habermeyer",
+        "stars": 3,
+        "street": "G\u00e4rtnerstra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Kaiser-Wilhelm-Str.29",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-01-28",
+        "machine": "MedievalMadness",
+        "note": "NetterLadenauchf\u00fcrBillardundSnooker",
+        "number": "29",
+        "pin": {
+            "coordinates": [
+                13.3378,
+                52.43143999999999
+            ],
+            "type": "Point"
+        },
+        "place": "PViewBillard&Events",
+        "stars": 3,
+        "street": "Kaiser-Wilhelm-Stra\u00dfe",
+        "zipcode": "12247"
+    },
+    {
+        "address": "G\u00e4rtnerstr.(BoxhagenerPlatz)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-01-01",
+        "machine": "RevengefromMars",
+        "note": "-",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4606017,
+                52.5102236
+            ],
+            "type": "Point"
+        },
+        "place": "Feuermelder",
+        "stars": 3,
+        "street": "G\u00e4rtnerstra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "LausitzerStr.1",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-19",
+        "machine": "AttackfromMars",
+        "note": "-",
+        "number": "1",
+        "pin": {
+            "coordinates": [
+                13.43001,
+                52.49901
+            ],
+            "type": "Point"
+        },
+        "place": "Route36",
+        "stars": 3,
+        "street": "Lausitzer Stra\u00dfe",
+        "zipcode": "10999"
+    },
+    {
+        "address": "General-Barby-Str.25",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-07-25",
+        "machine": "TheatreofMagic",
+        "note": "netteLocation",
+        "number": "25",
+        "pin": {
+            "coordinates": [
+                13.31674,
+                52.56879
+            ],
+            "type": "Point"
+        },
+        "place": "ChillOutBar",
+        "stars": 3,
+        "street": "General-Barby-Stra\u00dfe",
+        "zipcode": "13403"
+    },
+    {
+        "address": "-",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-01-31",
+        "machine": "HarleyDavidson",
+        "note": "-",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4435675,
+                52.509679
+            ],
+            "type": "Point"
+        },
+        "place": "WildAtHeart",
+        "stars": 0,
+        "street": null,
+        "zipcode": "10???"
+    },
+    {
+        "address": "Koppenstra\u00dfe8(Ostbahnhof)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-07-25",
+        "machine": "IndianaJones",
+        "note": "-",
+        "number": "8",
+        "pin": {
+            "coordinates": [
+                13.4343831,
+                52.5128869
+            ],
+            "type": "Point"
+        },
+        "place": "EastsideBowling",
+        "stars": 3,
+        "street": "Koppenstra\u00dfe",
+        "zipcode": "10243"
+    },
+    {
+        "address": "Manteuffelstr.41",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2011-09-28",
+        "machine": "ScaredStiff",
+        "note": "-",
+        "number": "41",
+        "pin": {
+            "coordinates": [
+                13.4266988,
+                52.4997793
+            ],
+            "type": "Point"
+        },
+        "place": "Milchbar",
+        "stars": 2,
+        "street": "Manteuffelstra\u00dfe",
+        "zipcode": "10997"
+    },
+    {
+        "address": "Simon-Dach-Str.40",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-01-15",
+        "machine": "SternStarTrekLE",
+        "note": "Nagelneu!Super!",
+        "number": "40",
+        "pin": {
+            "coordinates": [
+                13.4572878,
+                52.5119485
+            ],
+            "type": "Point"
+        },
+        "place": "AstroBar",
+        "stars": 3,
+        "street": "Simon-Dach-Stra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "MetzerStra\u00dfe2",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-08-14",
+        "machine": "AdamsFamilyGold",
+        "note": "TolleLocation",
+        "number": "2",
+        "pin": {
+            "coordinates": [
+                13.414031,
+                52.5319869
+            ],
+            "type": "Point"
+        },
+        "place": "Yesterday",
+        "stars": 3,
+        "street": "Metzer Stra\u00dfe",
+        "zipcode": "10405"
+    },
+    {
+        "address": "Knesebeckstr.38",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-05-21",
+        "machine": "Batman",
+        "note": "wieneu!",
+        "number": "38",
+        "pin": {
+            "coordinates": [
+                13.32118,
+                52.50091
+            ],
+            "type": "Point"
+        },
+        "place": "Billard-International",
+        "stars": 3,
+        "street": "Knesebeckstra\u00dfe",
+        "zipcode": "10719"
+    },
+    {
+        "address": "Flutgraben2",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-07-09",
+        "machine": "StarTrek:TheNextGeneration",
+        "note": "derzeitnichtinderAufstellung",
+        "number": "2",
+        "pin": {
+            "coordinates": [
+                13.4515662,
+                52.4970164
+            ],
+            "type": "Point"
+        },
+        "place": "WhiteTrash",
+        "stars": 0,
+        "street": "Am Flutgraben",
+        "zipcode": "12435"
+    },
+    {
+        "address": "Kleiststr.3-6",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-06-02",
+        "machine": "Corvette",
+        "note": "Immernochweg,lautMitarbeiterinM\u00f6nchenGladbach?obderwiderkommt,istwohlfraglich.Schade",
+        "number": "3",
+        "pin": {
+            "coordinates": [
+                13.35169,
+                52.50041
+            ],
+            "type": "Point"
+        },
+        "place": "BerolinaBowlingLounge",
+        "stars": 0,
+        "street": "Kleiststra\u00dfe",
+        "zipcode": "10787"
+    },
+    {
+        "address": "Kaiser-Wilhelm-Str.29",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-01-28",
+        "machine": "MonsterBash",
+        "note": "NetterLadenauchf\u00fcrBillardundSnooker",
+        "number": "29",
+        "pin": {
+            "coordinates": [
+                13.3378,
+                52.43143999999999
+            ],
+            "type": "Point"
+        },
+        "place": "PViewBillard&Events",
+        "stars": 3,
+        "street": "Kaiser-Wilhelm-Stra\u00dfe",
+        "zipcode": "12247"
+    },
+    {
+        "address": "Flutgraben2",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-06-24",
+        "machine": "JudgeDredd",
+        "note": "imTatooStudio",
+        "number": "2",
+        "pin": {
+            "coordinates": [
+                13.4515662,
+                52.4970164
+            ],
+            "type": "Point"
+        },
+        "place": "WhiteTrash",
+        "stars": 3,
+        "street": "Am Flutgraben",
+        "zipcode": "12435"
+    },
+    {
+        "address": "SenefelderPlatz",
+        "city": "Berlin/PrenzlauerBerg",
+        "country": "Germany",
+        "lastupdate": "2010-11-11",
+        "machine": "AddamsFamilyGold",
+        "note": "derFlipperistToT,Locationistnett",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4128709,
+                52.5320505
+            ],
+            "type": "Point"
+        },
+        "place": "Yesterdayfr\u00fcherFlowerPower",
+        "stars": 1,
+        "street": null,
+        "zipcode": "10405"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2013-05-31",
+        "machine": "NoFear",
+        "note": "7Flipperhier,FlipperingutemZustand.",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 3,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2014-06-25",
+        "machine": "CirqusVoltaire",
+        "note": "-",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 2,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2013-05-13",
+        "machine": "NoGoodGofers",
+        "note": "Abschussschwach",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 2,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2013-05-31",
+        "machine": "CSI",
+        "note": "7Flipperhier!",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 3,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2014-08-11",
+        "machine": "RevengefromMars",
+        "note": "7Flipperhier!",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 3,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2014-08-11",
+        "machine": "AVATAR",
+        "note": "7Flipperhier,extraRaumf\u00fcrFlipper,superZustand",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 3,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "AltlandsbergerChaussee7",
+        "city": "Berlin-H\u00f6now",
+        "country": "Germany",
+        "lastupdate": "2014-08-11",
+        "machine": "Terminator2",
+        "note": "7Flipperhier",
+        "number": "7",
+        "pin": {
+            "coordinates": [
+                13.64419,
+                52.54464
+            ],
+            "type": "Point"
+        },
+        "place": "CasinoGl\u00fcckspilz",
+        "stars": 3,
+        "street": "Altlandsberger Chaussee",
+        "zipcode": "15366"
+    },
+    {
+        "address": "Urbanstr.30",
+        "city": "Berlin-Kreuzberg",
+        "country": "Germany",
+        "lastupdate": "2012-10-22",
+        "machine": "TransformersLE",
+        "note": "-",
+        "number": "30",
+        "pin": {
+            "coordinates": [
+                13.4135,
+                52.49138000000001
+            ],
+            "type": "Point"
+        },
+        "place": "CafeNova",
+        "stars": 3,
+        "street": "Urbanstra\u00dfe",
+        "zipcode": "10967"
+    },
+    {
+        "address": "MariendorferDamm100",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-11-22",
+        "machine": "AvengersLE",
+        "note": "Neu5Flipperhier",
+        "number": "100",
+        "pin": {
+            "coordinates": [
+                13.3834788,
+                52.4438003
+            ],
+            "type": "Point"
+        },
+        "place": "MariendorferK\u00e4fer",
+        "stars": 3,
+        "street": "Mariendorfer Damm",
+        "zipcode": "12109"
+    },
+    {
+        "address": "Karl-Marx-Str.66",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-12-09",
+        "machine": "WheelofFortune",
+        "note": "3Flipper",
+        "number": "66",
+        "pin": {
+            "coordinates": [
+                13.432996,
+                52.4821579
+            ],
+            "type": "Point"
+        },
+        "place": "Cineplex-Neuk\u00f6llnArkaden",
+        "stars": 0,
+        "street": "Karl-Marx-Stra\u00dfe",
+        "zipcode": "12043"
+    },
+    {
+        "address": "Tucholskystr.30",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2011-01-21",
+        "machine": "LordoftheRings",
+        "note": "-",
+        "number": "30",
+        "pin": {
+            "coordinates": [
+                13.39382,
+                52.52601
+            ],
+            "type": "Point"
+        },
+        "place": "Zosch",
+        "stars": 3,
+        "street": "Tucholskystra\u00dfe",
+        "zipcode": "10117"
+    },
+    {
+        "address": "Ziegelstr.28",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-09-25",
+        "machine": "TheatreofMagic",
+        "note": "ImAufenthaltsraum",
+        "number": "28",
+        "pin": {
+            "coordinates": [
+                13.39095,
+                52.52374
+            ],
+            "type": "Point"
+        },
+        "place": "BaxpaxHostel",
+        "stars": 2,
+        "street": "Ziegelstra\u00dfe",
+        "zipcode": "10117"
+    },
+    {
+        "address": "Naunynstr.60",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-08-22",
+        "machine": "Metallica",
+        "note": "-",
+        "number": "60",
+        "pin": {
+            "coordinates": [
+                13.4202207,
+                52.5020719
+            ],
+            "type": "Point"
+        },
+        "place": "Trinkteufel",
+        "stars": 3,
+        "street": "Naunynstra\u00dfe",
+        "zipcode": "10997"
+    },
+    {
+        "address": "MariendorferDamm100",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-11-22",
+        "machine": "MedievalMadness",
+        "note": "Neu5Flipperhier",
+        "number": "100",
+        "pin": {
+            "coordinates": [
+                13.3834788,
+                52.4438003
+            ],
+            "type": "Point"
+        },
+        "place": "MariendorferK\u00e4fer",
+        "stars": 3,
+        "street": "Mariendorfer Damm",
+        "zipcode": "12109"
+    },
+    {
+        "address": "WienerStr.15",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-11-22",
+        "machine": "Tron",
+        "note": "Kreuzberg",
+        "number": "15",
+        "pin": {
+            "coordinates": [
+                13.42966,
+                52.49795
+            ],
+            "type": "Point"
+        },
+        "place": "Wei\u00dfeTaube",
+        "stars": 3,
+        "street": "Wiener Stra\u00dfe",
+        "zipcode": "10999"
+    },
+    {
+        "address": "Schillerstra\u00dfe44",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-03-23",
+        "machine": "Terminator2",
+        "note": "BeleuchtunglinkeSeitesp\u00e4rlich,Raucherkneipe",
+        "number": "44",
+        "pin": {
+            "coordinates": [
+                13.3054942,
+                52.5100017
+            ],
+            "type": "Point"
+        },
+        "place": "DIO\u00b4sMusikcaf\u00e9",
+        "stars": 2,
+        "street": "Schillerstra\u00dfe",
+        "zipcode": "10627"
+    },
+    {
+        "address": "Koppenstra\u00dfe8(Ostbahnhof)",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-03-23",
+        "machine": "DemolitionMan",
+        "note": "Cranez.Zt.defekt.",
+        "number": "8",
+        "pin": {
+            "coordinates": [
+                13.4343831,
+                52.5128869
+            ],
+            "type": "Point"
+        },
+        "place": "EastsideBowling",
+        "stars": 3,
+        "street": "Koppenstra\u00dfe",
+        "zipcode": "10243"
+    },
+    {
+        "address": "Sch\u00f6nhauserAllee",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-08-22",
+        "machine": "TheAddamsFamily",
+        "note": "-",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4120874,
+                52.5376838
+            ],
+            "type": "Point"
+        },
+        "place": "BASSYClub",
+        "stars": 0,
+        "street": "Sch\u00f6nhauser Allee",
+        "zipcode": "10435"
+    },
+    {
+        "address": "MariendorferDamm100",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-11-22",
+        "machine": "Ripley`sBelieveitornot",
+        "note": "Neu5Flipperhier",
+        "number": "100",
+        "pin": {
+            "coordinates": [
+                13.3834788,
+                52.4438003
+            ],
+            "type": "Point"
+        },
+        "place": "MariendorferK\u00e4fer",
+        "stars": 3,
+        "street": "Mariendorfer Damm",
+        "zipcode": "12109"
+    },
+    {
+        "address": "Ebertystr.",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2010-01-22",
+        "machine": "TheGetaway",
+        "note": "nebenKneipeBudike(?)",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4528909,
+                52.5241451
+            ],
+            "type": "Point"
+        },
+        "place": "Spielhalle",
+        "stars": 0,
+        "street": "Ebertystra\u00dfe",
+        "zipcode": "10247"
+    },
+    {
+        "address": "Sch\u00f6nhauserAllee",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2012-03-22",
+        "machine": "Elvis",
+        "note": "-",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4120874,
+                52.5376838
+            ],
+            "type": "Point"
+        },
+        "place": "BASSYClub",
+        "stars": 3,
+        "street": "Sch\u00f6nhauser Allee",
+        "zipcode": "10435"
+    },
+    {
+        "address": "Simon-DachStr.37",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-09-30",
+        "machine": "VirtualPinball",
+        "note": "zurZeitleiderdefekt!IstdaseinFlipper?Geschmacksache!",
+        "number": "37",
+        "pin": {
+            "coordinates": [
+                13.4566414,
+                52.5104218
+            ],
+            "type": "Point"
+        },
+        "place": "RockZ",
+        "stars": 0,
+        "street": "Simon-Dach-Stra\u00dfe",
+        "zipcode": "10245"
+    },
+    {
+        "address": "PrenzlauerAllee,EckeDanzigerStrasse",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2009-12-29",
+        "machine": "MedievalMadness",
+        "note": "MedievalMadnessl\u00e4uftsehrgut,Addamsistsehrdunkelundschlechtzuspielen.G\u00fcnstigePreiseundnetteBedienung",
+        "number": null,
+        "pin": {
+            "coordinates": [
+                13.4230065,
+                52.53419359999999
+            ],
+            "type": "Point"
+        },
+        "place": "BierstubezurLinde",
+        "stars": 3,
+        "street": null,
+        "zipcode": "10405"
+    },
+    {
+        "address": "Markgrafendamm36",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-09-17",
+        "machine": "Terminator3",
+        "note": "-",
+        "number": "36",
+        "pin": {
+            "coordinates": [
+                13.465148,
+                52.4982046
+            ],
+            "type": "Point"
+        },
+        "place": "Irrenhaus",
+        "stars": 3,
+        "street": "Markgrafendamm",
+        "zipcode": "10245"
+    },
+    {
+        "address": "Markgrafendamm36",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-04-23",
+        "machine": "Terminator3",
+        "note": "EckeStralauerAllee",
+        "number": "36",
+        "pin": {
+            "coordinates": [
+                13.465148,
+                52.4982046
+            ],
+            "type": "Point"
+        },
+        "place": "Irrenhaus",
+        "stars": 2,
+        "street": "Markgrafendamm",
+        "zipcode": "10245"
+    },
+    {
+        "address": "ReichenbergerStra\u00dfe153",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2014-04-15",
+        "machine": "Funhouse",
+        "note": "DisplayhatabundzuFehler,PlungerohneKraft.DunkleRaucherkneipeab17.00",
+        "number": "153",
+        "pin": {
+            "coordinates": [
+                13.4242,
+                52.49762
+            ],
+            "type": "Point"
+        },
+        "place": "Bohnengold(?)",
+        "stars": 2,
+        "street": "Reichenberger Stra\u00dfe",
+        "zipcode": "10999"
+    },
+    {
+        "address": "KarlMarxalle140",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2010-11-11",
+        "machine": "AddamsFamily",
+        "note": "sehenswerteLocation",
+        "number": "140",
+        "pin": {
+            "coordinates": [
+                13.45222,
+                52.51573
+            ],
+            "type": "Point"
+        },
+        "place": "Abgedreht",
+        "stars": 3,
+        "street": "Karl-Marx-Allee",
+        "zipcode": "10???"
+    },
+    {
+        "address": "General-Barby-Str.25",
+        "city": "Berlin",
+        "country": "Germany",
+        "lastupdate": "2013-07-06",
+        "machine": "TwilightZone",
+        "note": "Lockfastunm\u00f6glich,allespulenextremvielpower..brutalschnell:-)AbersuperLocation",
+        "number": "25",
+        "pin": {
+            "coordinates": [
+                13.31674,
+                52.56879
+            ],
+            "type": "Point"
+        },
+        "place": "ChillOutBar",
+        "stars": 2,
+        "street": "General-Barby-Stra\u00dfe",
+        "zipcode": "13403"
+    }
+]

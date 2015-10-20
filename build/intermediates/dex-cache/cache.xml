@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/isingh/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/home/isingh/AndroidStudioProjects/SCLabs/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-fcb42c5411ad349489d48584989b21481bdc2dfc.jar" />
+    </item>
+
+</items>
